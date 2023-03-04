@@ -1,6 +1,8 @@
 # Malloc-Lab
 Malloc Package produced by Ann Zhang.
 
+Exactly the same in usage and functionality with C's standard dynamic memory allocator. Achieving 13000+ ops/s and 89% memory utility on average.
+
 This memory allocator is based on segregated free lists.
 
 The smallest block class on the free list is 16 bytes in size, with a header, a footer and the pointer to its successor.
