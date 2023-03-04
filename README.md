@@ -1,4 +1,4 @@
-# Malloc-Lab
+# Malloc-Lab from PKU-ICS (and CMU-CS:APP)
 Malloc Package produced by Ann Zhang.
 
 Exactly the same in usage and functionality with C's standard dynamic memory allocator. Achieving 13000+ ops/s and 89% memory utility on average.
